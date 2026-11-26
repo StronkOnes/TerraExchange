@@ -1,0 +1,6 @@
+{
+  "name": "TerraExchange",
+  "description": "International B2B commodities and physical-goods trading marketplace connecting South African and global commercial businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
